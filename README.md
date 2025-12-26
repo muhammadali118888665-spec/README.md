@@ -8,18 +8,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="126" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfpFuWx1Ce0A4MBlGtxN89xDol5JHgwnD9g&s"  />
-
-###
-
-<p align="left">📚 I'm currently learning JS.<br>🎯 Goals: Full Stack Developer.<br>🎲 Fun fact help with Ai.</p>
-
-###
-
 <h2 align="left">Skills</h2>
 
 ###
@@ -64,28 +52,28 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<img align="right" height="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfpFuWx1Ce0A4MBlGtxN89xDol5JHgwnD9g&s"  />
+
+###
+
+<p align="left">📚 I'm currently learning JS.<br>🎯 Goals: Full Stack Developer.<br>🎲 Fun fact help with Ai.</p>
+
+###
+
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Mali9090.Mali9090&"  />
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mali9090&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mali9090/Mali9090/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mali9090/Mali9090/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mali9090/Mali9090/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mali9090.Mali9090&"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Mali9090/Mali9090/output/snake.svg" alt="Snake animation" />
 
 ###
